@@ -1,0 +1,5 @@
+﻿Operation,Ticker,Ammount,Buying Price(USD),Value in USD,Date Bought
+BUY,BTC,0.005,42000,210,5/18/21
+BUY,LTC,1,160,160,5/20/21
+BUY,LTC,2,120,240,8/5/21
+SELL,LTC,1,230,230,2/10/22
